@@ -1,0 +1,2 @@
+# Rusty Invaders
+This project is part of my learning on Rust Lang. Whilst this still under development you may not be able to run it on your machine, but if you want to give it a try, just download the project, navigate into it with your terminal and run `cargo run`
